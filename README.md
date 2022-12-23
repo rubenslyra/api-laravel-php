@@ -1,4 +1,5 @@
-# api-laravel-php
+# API Laravel PHP
+
 Repositório dedicado ao desenvolvimento do projeto API Laravel PHP.
 
 ## Características de uma API REST?
