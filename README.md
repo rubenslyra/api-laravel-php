@@ -18,3 +18,5 @@ Cache: uma API REST deve ser desenvolvida de modo que consiga armazenar dados em
 Referência:
 
 - ["API Rest", Bruna B. Barro @ Hostinger](https://www.hostinger.com.br/tutoriais/api-restful)
+
+- ["API REST",  @ REDHAT](https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api)
